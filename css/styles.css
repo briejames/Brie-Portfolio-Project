@@ -1,0 +1,16 @@
+.about-me {
+  background-color:black
+  font-color:white
+  font-weight: bold;
+  font-size: medium;
+  border: 2px white;
+
+}
+
+.my-highlight {
+  margin-trim: ;
+  border:black
+  padding: 4px;
+  background-color:black;
+  box-sizing:border-box;
+}
