@@ -1,14 +1,25 @@
-.current-interests {
-  background-color:black
-  font-color:white
-  font-weight: bold;
-  font-size: medium;
-  border: 2px white;
+
+.border-2 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px black;
+  padding: 10px;
+  color:black;
 }
 
-.my-highlight {
-  margin-trim: ;
-  border:black
+.test {
+  color:black;
+  font-style: italic;
+  font-size:xx-large;
+  border-bottom: black;
+  position: relative;
+}
+
+.border-1 {
+  /* margin-trim: ; */
+  border:black;
   padding: 4px;
   background-color:black;
   box-sizing:border-box;
