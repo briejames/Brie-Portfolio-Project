@@ -1,4 +1,4 @@
-# _Brie James Portfolio
+# Brie James Portfolio
 
 #### _I created this page to showcase where I am currently and where I plan to go! It will be really great to see my progress grow as I learn and evolve._
 
