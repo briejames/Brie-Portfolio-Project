@@ -1,8 +1,8 @@
-# _{Brie James Portfolio}
+# _Brie James Portfolio
 
-#### _{I created this page to showcase where I am currently and where I plan to go! It will be really great to see my progress grow as I learn and evolve.}_
+#### _I created this page to showcase where I am currently and where I plan to go! It will be really great to see my progress grow as I learn and evolve._
 
-#### By _**{Brie James}**_
+#### By _**Brie James**_
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-_{This is a look into my life and experience as well as a bit about me and what brought me to this new journey. Almost like a resume but not as formal, this application was created to not only let people know a bit about me but to showcase the things I've learned over the last two weeks, to show my progress, growth, tools and language and how they were executed. I was given the option to use boostrap for this project but I really wanted to get a feel for the basic tools and language used before picking up a new tool. This was a really great learning experience and will definitely help support and prepare me in knowing how to utilize my off time in the future.}_
+_{This is a look into my life and experience as well as a bit about me and what brought me to this new journey. Almost like a resume but not as formal, this application was created to not only let people know a bit about me but to showcase the things I've learned over the last two weeks, to show my progress, growth, tools and language and how they were executed. I was given the option to use bootstrap for this project but I really wanted to get a feel for the basic tools and language used before picking up a new tool. This was a really great learning experience and will definitely help support and prepare me in knowing how to utilize my off time in the future.}_
 
 ## Setup/Installation Requirements/Clone from Github
 
@@ -24,7 +24,7 @@ _{This is a look into my life and experience as well as a bit about me and what 
 * _Open Terminal_
 * _Change the current working directory to the location where you want the cloned directory._
 * _Type $ git clone and then paste the URL you copied earlier. $git clone https://github.com/briejames/Brie-Portfolio-Project
-* _Press enter to create you local clone._
+* _Press enter to create your local clone._
 
 
 ## Known Bugs
@@ -34,4 +34,4 @@ _{This is a look into my life and experience as well as a bit about me and what 
 ## MIT License
 
 
-## github.com/briejames}_
+## github.com/briejames
