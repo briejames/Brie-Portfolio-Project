@@ -6,6 +6,7 @@
   margin: 10%;
   background-color:darksalmon;
   float: center;
+  style: red;
 }
 
 .test {
@@ -37,4 +38,5 @@ img {
 body {
   background-color:white
 }
+
 
