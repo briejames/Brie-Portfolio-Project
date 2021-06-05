@@ -33,5 +33,7 @@ _This is a look into my life and experience as well as a bit about me and what b
 
 ## MIT License
 
+Copyright (c) 2021, Brie James
+
 
 ## github.com/briejames
