@@ -24,6 +24,9 @@
   padding-right: 30px;
 }
 
-.float {
+img {
   float: right;
+  padding-right: 5%;
+  padding-top: 10%;
+  width: 30%;
 }
