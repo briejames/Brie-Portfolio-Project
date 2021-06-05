@@ -14,9 +14,16 @@
 }
 
 .border-1 {
-  /* margin-trim: ; */
-  border:black;
-  padding: 4px;
-  background-color:black;
-  box-sizing:border-box;
+  border-style: solid;
+  border-width: medium;
+  border-color:black;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  padding-right: 30px;
+}
+
+.float {
+  float: right;
 }
