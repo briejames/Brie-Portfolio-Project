@@ -1,39 +1,37 @@
-# _{Application Name}_
+# _{Brie James Portfolio}
 
-#### _{Brief description of application}_
+#### _{I created this page to showcase where I am currently and where I plan to go! It will be really great to see my progress grow as I learn and evolve.}_
 
-#### By _**{List of contributors}**_
+#### By _**{Brie James}**_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _Terminal_
+* _Github_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_{This is a look into my life and experience as well as a bit about me and what brought me to this new journey. Almost like a resume but not as formal, this application was created to not only let people know a bit about me but to showcase the things I've learned over the last two weeks, to show my progress, growth, tools and language and how they were executed. I was given the option to use boostrap for this project but I really wanted to get a feel for the basic tools and language used before picking up a new tool. This was a really great learning experience and will definitely help support and prepare me in knowing how to utilize my off time in the future.}_
 
-## Setup/Installation Requirements
+## Setup/Installation Requirements/Clone from Github
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Have or set up an account on Github_
+* _Navigate to the repository page you wish to clone which would be under         repositories on the nav bar.Then Brie-Portfolio-Project_
+* _Once inside the repository page you will see a green button that says "Code", click on the button, that will copy the URL to your clipboard_
+* _To clone the repository using HTTPS, under "Clone with HTTPS",click the mini clipboard icon. To clone using SSH key, including a certificate issued by your organization's SSH certificate authority, click "Use SSH, then click the clipboard. To clone a repository using GitHub CLI,click "Use GitHub CLI, then click the clipboard which will copy._
+* _Open Terminal_
+* _Change the current working directory to the location where you want the cloned directory._
+* _Type $ git clone and then paste the URL you copied earlier. $git clone https://github.com/briejames/Brie-Portfolio-Project
+* _Press enter to create you local clone._
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _TBA_
 
-## License
+## MIT License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
-## Contact Information
-
-_{Add your contact information here.}_
+## github.com/briejames}_
