@@ -28,6 +28,7 @@ _This is a look into my life and experience as well as a bit about me and what b
 
 
 ## Known Bugs
+Size of image changes with size of window
 
 * _TBA_
 
