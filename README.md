@@ -15,6 +15,9 @@
 
 _This is a look into my life and experience as well as a bit about me and what brought me to this new journey. Almost like a resume but not as formal, this application was created to not only let people know a bit about me but to showcase the things I've learned over the last two weeks, to show my progress, growth, tools and language and how they were executed. I was given the option to use bootstrap for this project but I really wanted to get a feel for the basic tools and language used before picking up a new tool. This was a really great learning experience and will definitely help support and prepare me in knowing how to utilize my off time in the future._
 
+##To View My GitPages:
+*_briejames.github.io/Brie-Portfolio-Project/
+
 ## Setup/Installation Requirements/Clone from Github
 
 * _Have or set up an account on Github_
